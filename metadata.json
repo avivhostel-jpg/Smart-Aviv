@@ -1,0 +1,7 @@
+{
+  "name": "Smart management system AVIV PRO",
+  "description": "מערכת ניהול ובקרה מתקדמת לארגוני דיור בקהילה - הגרסה המאובטחת והמסונכרנת של עמית שטיינברג",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
